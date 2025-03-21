@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hey 👋 I'm Md Abu Bakar Siddique</h1>
+<marquee style="color: blue;" align="left">Hey 👋 I'm Md Abu Bakar Siddique</marquee>
 
 ###
 
