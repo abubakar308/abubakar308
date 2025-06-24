@@ -16,7 +16,14 @@
 
 ###
 
-<p align="left">✨ I am a passionate **Web Developer** with a strong foundation in **JavaScript, React, Node.js, and MongoDB**. I enjoy crafting **scalable, user-friendly, and high-performance** web applications that provide seamless experiences.  <br><br>📚 Currently, I am expanding my expertise in **Next.js, TypeScript, and Redux** to become a proficient **Full Stack Developer**. I thrive on solving complex problems and continuously learning new technologies.  <br><br>🎯 ✔ Master **Next.js, TypeScript & Redux**  <br>✔ Contribute to Open Source Projects  <br>✔ Become a **Senior Web Developer**</p>
+<p align="left">
+✨ I'm a Junior Full Stack Web Developer passionate about crafting user-centric, scalable web applications.<br><br>
+
+🚀 I specialize in the MERN stack — JavaScript, React, Node.js, and MongoDB — and I enjoy solving real-world problems through technology.<br><br>
+
+🎯 My current goal is to master modern frameworks like Next.js and TypeScript, contribute to open source, and grow into a Senior Developer role.
+</p>
+  <br>📚 Currently, I am expanding my expertise in **Next.js, TypeScript, and Redux** to become a proficient **Full Stack Developer**. I thrive on solving complex problems and continuously learning new technologies.  <br><br>🎯 ✔ Master **Next.js, TypeScript & Redux**  <br>✔ Contribute to Open Source Projects  <br>✔ Become a **Senior Web Developer**</p>
 
 ###
 
@@ -78,3 +85,10 @@
 </div>
 
 ###
+
+![GitHub Contributions](https://komarev.com/ghpvc/?username=abubakar308&color=blue)
+
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=abubakar308&label=Visitors&color=0e75b6&style=flat" alt="profile-views" />
+</p>
+
