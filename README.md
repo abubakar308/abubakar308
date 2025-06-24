@@ -89,6 +89,6 @@
 
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=abubakar308&label=Visitors&color=0e75b6&style=flat" alt="profile-views" />
-  ![GitHub Contributions](https://komarev.com/ghpvc/?username=abubakar308&color=blue)
 </p>
+  ![GitHub Contributions](https://komarev.com/ghpvc/?username=abubakar308&color=blue)
 
