@@ -70,26 +70,11 @@
   </a>
 </div>
 
----
+## 📊 GitHub Stats
 
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abubakar308&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar308&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abubakar308&theme=dracula&hide_border=false&border_radius=5&mode=daily" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abubakar308&theme=dracula&no-frame=false&row=1&column=4&margin-w=10&margin-h=10" height="140" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakar308&theme=react&area=true&hide_border=false&radius=16" height="280" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abubakar308&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abubakar308&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar308&layout=compact&theme=radical)
 
 ---
 
