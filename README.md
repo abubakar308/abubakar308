@@ -73,17 +73,17 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abubakar308&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abubakar308&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar308&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar308&layout=compact&theme=radical)
 
 ---
+## 🧮 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/{abubakar308}/count.svg)
 
 
 ###
 
   ![GitHub Contributions](https://komarev.com/ghpvc/?username=abubakar308&color=blue)
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=abubakar308&label=Visitors&color=0e75b6&style=flat" alt="profile-views" />
-</p>
 
 
