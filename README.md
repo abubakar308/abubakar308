@@ -75,9 +75,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abubakar308&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abubakar308&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar308&layout=compact&theme=radical)
-
 ---
-[![Trophy](https://github-profile-trophy.vercel.app/?username=abubakar308h&theme=flat&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Trophies
+[![Trophy](https://github-profile-trophy.vercel.app/?username=abubakar308&theme=flat&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 ## 🧮 Visitor Count
 
