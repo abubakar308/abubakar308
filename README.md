@@ -77,7 +77,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar308&layout=compact&theme=radical)
 
 ---
-
+[![Trophy](https://github-profile-trophy.vercel.app/?username=abubakar308h&theme=flat&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 ## 🧮 Visitor Count
 
