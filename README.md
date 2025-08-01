@@ -80,10 +80,6 @@
 ## 🏆 GitHub Trophies
 [![Trophy](https://github-profile-trophy.vercel.app/?username=abubakar308&theme=flat&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-## 🧮 Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/{abubakar308}/count.svg)
 
 ### 📈 GitHub Contribution Graph
 
