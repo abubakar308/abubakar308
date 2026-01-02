@@ -1,88 +1,103 @@
 <div align="center">
-  <img height="200" src="https://i.postimg.cc/m2CJNqg3/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner-1.png"  />
+  <img height="200" src="https://i.postimg.cc/m2CJNqg3/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner-1.png" />
 </div>
-
-###
 
 <h1 align="left">Hey 👋 I'm Md Abu Bakar Siddique</h1>
 
-###
+<p align="left">
+🚀 Junior Full Stack Web Developer | MERN Stack | TypeScript | PostgreSQL | Open-Source Enthusiast
+</p>
 
-<p align="left">🚀 Junior Web Developer | MERN Stack Enthusiast | Open-Source Contributor</p>
+---
 
-###
-
-<h2 align="left">About me</h2>
-
-###
+<h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
-✨ I'm a Junior Full Stack Web Developer passionate about crafting user-centric, scalable web applications.<br><br>
+✨ I’m a passionate Junior Full Stack Web Developer who loves building scalable, user-friendly web applications.<br><br>
 
-🚀 I specialize in the MERN stack — JavaScript, React, Node.js, and MongoDB — and I enjoy solving real-world problems through technology.<br><br>
+🚀 My core expertise lies in the MERN stack (MongoDB, Express, React, Node.js), and I actively work with <b>TypeScript</b> to write clean, maintainable, and type-safe code.<br><br>
 
-  <br>📚 Currently, I am expanding my expertise in **Next.js, TypeScript, and Redux** to become a proficient **Full Stack Developer**. I thrive on solving complex problems and continuously learning new technologies.  <br><br>🎯 ✔ Master **Next.js, TypeScript & Redux**  <br>✔ Contribute to Open Source Projects  <br>✔ Become a **Senior Web Developer**</p>
+📚 Currently, I’m expanding my backend and frontend skills by working with <b>Next.js, PostgreSQL, Redux, and advanced system design concepts</b>.<br><br>
 
-###
+🎯 <b>Goals:</b><br>
+✔ Master Next.js, TypeScript & PostgreSQL<br>
+✔ Build production-grade full-stack applications<br>
+✔ Contribute to Open Source Projects<br>
+✔ Grow into a Senior Web Developer
+</p>
 
-<h2 align="left">Teach Stack</h2>
+---
 
-###
+<h2 align="left">🛠 Tech Stack</h2>
 
+<h4>Frontend</h4>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" height="40" />
 </div>
 
+<h4>Backend</h4>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" />
+</div>
 
-###
+<h4>Languages</h4>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript" height="40" />
+</div>
 
-<h3 align="left">📫 Connect With Me</h3>
+<h4>Databases</h4>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" height="40" />
+</div>
 
-###
+<h4>Tools & Platforms</h4>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,netlify,vercel,git,github" height="40" />
+</div>
+
+---
+
+<h2 align="left">📚 Currently Learning</h2>
+
+<ul>
+  <li>Next.js App Router & Server Components</li>
+  <li>Advanced TypeScript Patterns</li>
+  <li>PostgreSQL with Prisma & SQL Optimization</li>
+  <li>Redux Toolkit & State Management</li>
+</ul>
+
+---
+
+<h2 align="left">📫 Connect With Me</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/abubakar308" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
   </a>
   <a href="https://www.facebook.com/mdabubakar308" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" />
   </a>
   <a href="https://x.com/MdAbuba19583062" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" />
   </a>
 </div>
+
+---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abubakar308&show_icons=true&theme=radical)
 [![](https://nirzak-streak-stats.vercel.app?user=abubakar308)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar308&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar308&layout=compact)
 
+---
 
 ## 🏆 GitHub Trophies
 [![Trophy](https://github-profile-trophy.vercel.app/?username=abubakar308&theme=flat&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
 
 ### 📈 GitHub Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakar308&theme=react-dark&area=true&hide_border=false&radius=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakar308&theme=react-dark&area=true" />
 </p>
-
-
