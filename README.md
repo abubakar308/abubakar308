@@ -84,12 +84,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abubakar308&show_icons=true&theme=radical)
-[![](https://nirzak-streak-stats.vercel.app?user=abubakar308)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar308&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 ## 🏆 GitHub Trophies
 [![Trophy](https://github-profile-trophy.vercel.app/?username=abubakar308&theme=flat&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
