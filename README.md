@@ -84,6 +84,18 @@
 
 ---
 
+## 📊 Github Stats
+
+[![](https://nirzak-streak-stats.vercel.app?user=abubakar308)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar308&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🧮 Visitor Count
+
+<img src="https://profile-counter.deno.dev/abubakar308/count.svg" alt="Key:: Visitor's Count" />
+
+---
 
 ## 🏆 GitHub Trophies
 [![Trophy](https://github-profile-trophy.vercel.app/?username=abubakar308&theme=flat&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
