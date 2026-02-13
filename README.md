@@ -5,7 +5,7 @@
 <h1 align="left">Hey 👋 I'm Md Abu Bakar Siddique</h1>
 
 <p align="left">
-🚀 Junior Full Stack Web Developer | MERN Stack | TypeScript | PostgreSQL | Open-Source Enthusiast
+🚀Full Stack Web Developer | MERN Stack | TypeScript | PostgreSQL | Open-Source Enthusiast
 </p>
 
 ---
