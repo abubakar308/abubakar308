@@ -1,112 +1,146 @@
 <div align="center">
-  <img height="200" src="https://i.postimg.cc/m2CJNqg3/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner-1.png" />
+
+<img src="https://i.postimg.cc/m2CJNqg3/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner-1.png" />
+
+# 👋 Hey, I'm Md Abu Bakar Siddique
+
+### 🚀 Full Stack Developer | TypeScript Enthusiast  
+### 💡 Future Software Engineer | Problem Solver  
+
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+to+TypeScript+Stack;Next.js+%2B+PostgreSQL+Developer;Always+Learning+New+Things" />
+
 </div>
 
-<h1 align="left">Hey 👋 I'm Md Abu Bakar Siddique</h1>
+---
 
-<p align="left">
-🚀Full Stack Web Developer | MERN Stack | TypeScript | PostgreSQL | Open-Source Enthusiast
+## 👨‍💻 About Me
+
+✨ Passionate developer focused on building **scalable, clean, and user-friendly applications**
+
+- 🚀 Started with **MERN Stack**
+- ⚡ Now working with **modern production stack**
+- 🧠 Love solving real-world problems
+- 🏗 Improving **system design & architecture thinking**
+
+---
+
+## 🎯 Career Goal
+
+> Become a **Software Engineer** who builds impactful and scalable systems
+
+✔ Master System Design  
+✔ Build production-grade apps  
+✔ Write clean & maintainable code  
+✔ Contribute to Open Source  
+
+---
+
+## 🛠 Tech Stack
+
+### 🚀 Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs)
+
+### ⚙️ Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
+
+### 🧠 Languages
+![Languages](https://skillicons.dev/icons?i=javascript,typescript)
+
+### 🗄 Database & ORM
+![Database](https://skillicons.dev/icons?i=mongodb,postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### 🧰 Tools
+![Tools](https://skillicons.dev/icons?i=git,github,vercel,netlify,firebase)
+
+---
+
+## 🚀 Featured Projects
+
+### 🍔 FoodHub
+> Full Stack Food Ordering Platform  
+- Next.js + TypeScript  
+- PostgreSQL + Prisma  
+- Authentication & Dashboard  
+
+### 🎓 TutorByte
+> Online Learning Platform  
+- MERN → Upgrading to TypeScript  
+- Role-based system  
+- Real-world project structure  
+
+---
+
+## 📚 Currently Learning
+
+- ⚡ Next.js App Router & Server Components  
+- 🧠 Advanced TypeScript Patterns  
+- 🗄 PostgreSQL + Prisma (Production backend)  
+- 🔗 API Design & Backend Architecture  
+- 🏗 System Design Fundamentals  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abubakar308&theme=radical&show_icons=true&count_private=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=abubakar308&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar308&layout=compact&theme=radical" />
 </p>
 
 ---
 
-<h2 align="left">👨‍💻 About Me</h2>
+## 🏆 Achievements
 
-<p align="left">
-✨ I’m a passionate Junior Full Stack Web Developer who loves building scalable, user-friendly web applications.<br><br>
-
-🚀 My core expertise lies in the MERN stack (MongoDB, Express, React, Node.js), and I actively work with <b>TypeScript</b> to write clean, maintainable, and type-safe code.<br><br>
-
-📚 Currently, I’m expanding my backend and frontend skills by working with <b>Next.js, PostgreSQL, Redux, and advanced system design concepts</b>.<br><br>
-
-🎯 <b>Goals:</b><br>
-✔ Master Next.js, TypeScript & PostgreSQL<br>
-✔ Build production-grade full-stack applications<br>
-✔ Contribute to Open Source Projects<br>
-✔ Grow into a Senior Web Developer
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abubakar308&theme=radical&no-frame=true&row=1" />
 </p>
 
 ---
 
-<h2 align="left">🛠 Tech Stack</h2>
+## 📈 Contribution Graph
 
-<h4>Frontend</h4>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" height="40" />
-</div>
-
-<h4>Backend</h4>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" />
-</div>
-
-<h4>Languages</h4>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript" height="40" />
-</div>
-
-<h4>Databases</h4>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" height="40" />
-</div>
-
-<h4>Tools & Platforms</h4>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,netlify,vercel,git,github" height="40" />
-</div>
-
----
-
-<h2 align="left">📚 Currently Learning</h2>
-
-<ul>
-  <li>Next.js App Router & Server Components</li>
-  <li>Advanced TypeScript Patterns</li>
-  <li>PostgreSQL with Prisma & SQL Optimization</li>
-  <li>Redux Toolkit & State Management</li>
-</ul>
-
----
-
-<h2 align="left">📫 Connect With Me</h2>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/abubakar308" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
-  </a>
-  <a href="https://www.facebook.com/mdabubakar308" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" />
-  </a>
-  <a href="https://x.com/MdAbuba19583062" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" />
-  </a>
-</div>
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abubakar308&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abubakar308&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar308&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=abubakar308&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-
-## 🧮 Visitor Count
-
-<img src="https://profile-counter.deno.dev/abubakar308/count.svg" alt="Key:: Visitor's Count" />
-
----
-
-## 🏆 GitHub Trophies
-[![Trophy](https://github-profile-trophy.vercel.app/?username=abubakar308&theme=flat&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📈 GitHub Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakar308&theme=react-dark&area=true" />
 </p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/abubakar308"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://www.facebook.com/mdabubakar308"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+<a href="https://x.com/MdAbuba19583062"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+</p>
+
+---
+
+## 🧮 Profile Views
+
+<p align="center">
+  <img src="https://profile-counter.deno.dev/abubakar308/count.svg" />
+</p>
+
+---
+
+## 💡 Developer Mindset
+
+> “I don’t just build projects — I focus on writing scalable, maintainable, and production-ready code.”
+
+---
+
+## ⚡ Fun Fact
+
+💬 I enjoy turning complex problems into simple, elegant solutions.
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star!
+
+</div>
