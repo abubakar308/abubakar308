@@ -96,27 +96,29 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abubakar308&theme=radical&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abubakar308&theme=radical&no-frame=true&row=1&margin-w=10" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakar308&theme=react-dark&area=true" />
-</p>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakar308&theme=react-dark" />
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/abubakar308"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://www.facebook.com/mdabubakar308"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-<a href="https://x.com/MdAbuba19583062"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+<a href="https://www.linkedin.com/in/abubakar308">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://www.facebook.com/mdabubakar308">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"/>
+</a>
+<a href="https://x.com/mdabubakardev">
+  <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
 </p>
-
 ---
 
 ## 🧮 Profile Views
