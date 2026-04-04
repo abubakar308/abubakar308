@@ -84,7 +84,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abubakar308&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abubakar308&show_icons=true&theme=radical" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=abubakar308&theme=radical" />
   <br/>
@@ -96,7 +96,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abubakar308&theme=radical&no-frame=true&row=1&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abubakar308&theme=radical&no-frame=true&row=1&margin-w=15" />
 </p>
 
 ---
