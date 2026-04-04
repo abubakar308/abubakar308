@@ -84,9 +84,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abubakar308&theme=radical&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abubakar308&show_icons=true&theme=radical&cache_seconds=1800" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abubakar308&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=abubakar308&theme=radical" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar308&layout=compact&theme=radical" />
 </p>
