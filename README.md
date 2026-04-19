@@ -57,7 +57,7 @@
 
 ## 🚀 Featured Projects
 
-### 🍔 FoodHub
+### 🍔 QuickPlatter
 > Full Stack Food Ordering Platform  
 - Next.js + TypeScript  
 - PostgreSQL + Prisma  
@@ -84,7 +84,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abubakar308&show_icons=true&theme=radical" />
+  <br/>
   <img src="https://streak-stats.demolab.com?user=abubakar308&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar308&layout=compact&theme=radical" />
 </p>
 
 ---
