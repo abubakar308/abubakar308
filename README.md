@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:090979,60:0f2027,100:00c6ff&height=300&section=header&text=Md%20Abu%20Bakar%20Siddique&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Scalable%20Web%20Applications&descAlignY=60&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:090979,60:0f2027,100:00c6ff&height=300&section=header&text=Md%20Abu%20Bakar%20Siddique&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Next.js%20%7C%20TypeScript%20%7C%20SaaS%20Developer&descAlignY=60&descSize=20" />
 
 # 👋 Hi, I'm Md Abu Bakar Siddique
 
