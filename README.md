@@ -1,37 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:090979,60:0f2027,100:00c6ff&height=300&section=header&text=Md%20Abu%20Bakar%20Siddique&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Next.js%20%7C%20TypeScript%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:090979,60:0f2027,100:00c6ff&height=300&section=header&text=Md%20Abu%20Bakar%20Siddique&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Scalable%20Web%20Applications&descAlignY=60&descSize=20" />
 
-# 👋 Hey, I'm Md Abu Bakar Siddique
+# 👋 Hi, I'm Md Abu Bakar Siddique
 
-### 🚀 Full Stack Developer | TypeScript Enthusiast  
-### 💡 Future Software Engineer | Problem Solver  
+### 🚀 Full Stack Developer (Next.js | TypeScript)  
+### 🧠 Backend-Focused | System Design Learner  
 
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+to+TypeScript+Stack;Next.js+%2B+PostgreSQL+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Building+Real-World+SaaS+Applications;Next.js+%2B+TypeScript+Developer;Backend+%26+System+Design+Focus;Always+Learning+%26+Improving" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-✨ Passionate developer focused on building **scalable, clean, and user-friendly applications**
+I build **full stack web applications** with a focus on **scalability, clean architecture, and real-world usability**.
 
-- 🚀 Started with **MERN Stack**
-- ⚡ Now working with **modern production stack**
-- 🧠 Love solving real-world problems
-- 🏗 Improving **system design & architecture thinking**
+- 🚀 Transitioned from MERN → **Modern TypeScript stack**
+- ⚡ Currently building **SaaS-style applications**
+- 🧠 Interested in **backend systems & API design**
+- 🏗 Learning **system design & production-level architecture**
 
 ---
 
-## 🎯 Career Goal
+## 🚀 Currently Building
 
-> Become a **Software Engineer** who builds impactful and scalable systems
-
-✔ Master System Design  
-✔ Build production-grade apps  
-✔ Write clean & maintainable code  
-✔ Contribute to Open Source  
+- 🎓 **TutorByte** — SaaS tutoring marketplace platform  
+- ⚙️ Improving backend architecture & API design  
+- 🧠 Deep diving into system design concepts  
 
 ---
 
@@ -57,17 +54,29 @@
 
 ## 🚀 Featured Projects
 
-### 🍔 QuickPlatter
-> Full Stack Food Ordering Platform  
-- Next.js + TypeScript  
-- PostgreSQL + Prisma  
-- Authentication & Dashboard  
+### 🎓 TutorByte — SaaS Tutoring Platform
+> A full-stack tutoring marketplace with real-world workflow
 
-### 🎓 TutorByte
-> Online Learning Platform  
-- MERN → Upgrading to TypeScript  
-- Role-based system  
-- Real-world project structure  
+- Role-based system (Student / Tutor / Admin)
+- Tutor approval & scheduling system
+- Booking → payment → session lifecycle
+- Built with Next.js, TypeScript, PostgreSQL, Prisma
+
+🔗 Live: https://tutorbyte.vercel.app  
+🔗 Code: https://github.com/abubakar308/TutorByte-Frontend
+
+---
+
+### 🍔 QuickPlatter — Food Ordering Platform
+> Full stack application with authentication & dashboard
+
+- Next.js + TypeScript
+- PostgreSQL + Prisma
+- Authentication & admin dashboard
+
+🔗 Live: https://quickplatter.vercel.app/  
+🔗 Code: https://github.com/abubakar308/quickplatter-frontend
+
 
 ---
 
@@ -84,18 +93,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abubakar308&show_icons=true&theme=radical" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=abubakar308&theme=radical" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar308&layout=compact&theme=radical" />
 </p>
 
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakar308&theme=react-dark" />
 ---
 
 ## 🌐 Connect With Me
@@ -104,32 +106,16 @@
 <a href="https://www.linkedin.com/in/abubakar308">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://www.facebook.com/mdabubakar308">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"/>
-</a>
 <a href="https://x.com/mdabubakardev">
   <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
 </a>
-</p>
----
-
-## 🧮 Profile Views
-
-<p align="center">
-  <img src="https://profile-counter.deno.dev/abubakar308/count.svg" />
 </p>
 
 ---
 
 ## 💡 Developer Mindset
 
-> “I don’t just build projects — I focus on writing scalable, maintainable, and production-ready code.”
-
----
-
-## ⚡ Fun Fact
-
-💬 I enjoy turning complex problems into simple, elegant solutions.
+> I don’t just build features — I design systems that scale.
 
 ---
 
